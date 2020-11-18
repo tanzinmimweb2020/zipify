@@ -1,0 +1,35 @@
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .p .btn {
+    
+    margin-bottom: 40px;
+}
+.f-end ul {
+    margin: 10px 0px 
+}
+ .baner-content{
+    width: 70%;
+    position: relative;
+    top: 0%;
+   left: 0%;
+   
+}
+}
+@media (min-width: 320px) and (max-width: 480px) {
+ .p .btn {
+   
+    margin-bottom: 40px;
+}
+.f-end ul {
+    margin: 10px 0px;
+
+}
+ .baner-content{
+    width: 70%;
+    position: relative;
+    top: 0%;
+   left: 0%;
+   
+}
+}

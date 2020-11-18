@@ -1,0 +1,179 @@
+header{
+    padding: 150px 0px 20px;
+    background: radial-gradient(#ccc, transparent)
+}
+.navbar{
+	padding: 15px 0px;
+}
+.navbar img, svg {
+    
+    width: 170px;
+}
+.navbar li{
+	padding: 0px 10px;
+}
+
+.nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #0A3A79;
+      border-bottom: 2px solid #0A3A79;
+  
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    font-weight: 700;
+    font-size: 18px;
+      border-bottom: 2px solid #F8F9FA;
+   
+}
+.banner-content h1{
+  
+  color: #43B752;
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 62px;
+  max-width: 500px;
+}
+.banner-content p{
+   color: #75757E;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 35px;
+  max-width: 500px;
+  
+}
+.banner-content .btn {
+   
+    font-weight: 500;
+    color: #fff;
+    background-color: #3BA949;
+    border: 1px solid #fff;
+    padding: 0.8rem 4rem;
+    font-size: 1.2rem;
+    border-radius: 0;
+    margin-top: 15px;
+    text-transform: uppercase;
+    
+}
+header .img img {
+    
+    max-width: 470px;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    display: block;
+    margin-left: auto;
+    
+  }
+.firestone .img img{
+   max-width: 450px;
+
+}
+.firestone p{
+  color: #75757E;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 35px;
+  max-width: 500px;
+  
+}
+.firestone{
+  padding: 50px 0px 0px;
+}
+.firestone a{
+  color: #3BA949;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  margin-bottom: 20px;
+  
+}
+.TRAINING {
+  background-color: #52535E;
+  padding: 70px 0px;
+}
+.TRAINING .title h3{
+   color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+ 
+
+}
+.TRAINING .title h1{
+   color: #fff;
+  font-size: 45px;
+  font-weight: 700;
+ 
+
+}
+.TRAINING .form-control {
+    
+    width: 100%;
+    
+    padding: .8rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #52535E;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0px;
+   
+}
+
+   .TRAINING .btn {
+   
+    font-weight: 500;
+    color: #fff;
+    background-color: #3BA949;
+    
+    padding: 0.8rem 2rem;
+    font-size: 1.1rem;
+    border-radius: 0;
+
+    
+    text-transform: uppercase;
+    
+}
+footer{
+  background-color: #F2F1F1;
+  padding: 50px 0px 25px;
+}
+footer .f-con h4{
+  color: #848484;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+footer .f-con h5{
+  color: #848484;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+.f-end{
+    background-color: #F2F1F1;
+    padding: 25px 0px;
+}
+.f-end p{
+  color: #848484;
+  font-size: 13px;
+  font-weight: 400;
+  margin: 0px;
+  
+}
+.f-end ul{
+  margin: 0px;
+}
+.f-end ul li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.f-end ul li i{
+  color: #848484;
+  font-size: 20px;
+
+}

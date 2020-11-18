@@ -1,0 +1,81 @@
+header{
+    padding: 150px 0px 20px;
+    
+}
+.navbar{
+	padding: 15px 0px;
+}
+.navbar img, svg {
+    
+    width: 170px;
+}
+.navbar li{
+	padding: 0px 10px;
+}
+
+.nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #0A3A79;
+      border-bottom: 2px solid #0A3A79;
+  
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    font-weight: 700;
+    font-size: 18px;
+      border-bottom: 2px solid #F8F9FA;
+   
+}
+
+.baner-content img, svg {
+    
+    width: 170px;
+}
+
+footer{
+  background-color: #F2F1F1;
+  padding: 50px 0px 25px;
+}
+footer .f-con h4{
+  color: #848484;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+footer .f-con h5{
+  color: #848484;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+.f-end{
+    background-color: #F2F1F1;
+    padding: 25px 0px;
+}
+.f-end p{
+  color: #848484;
+  font-size: 13px;
+  font-weight: 400;
+  margin: 0px;
+  
+}
+.f-end ul{
+  margin: 0px;
+}
+.f-end ul li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.f-end ul li i{
+  color: #848484;
+  font-size: 20px;
+
+}
+ .baner-content{
+    width: 30%;
+    position: absolute;
+    top: 40%;
+   left: 54%;
+   
+}
